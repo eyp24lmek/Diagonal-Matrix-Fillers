@@ -1,7 +1,7 @@
 # Diagonal-Matrix-Fillers
 Diagonal 3x3 Submatrix Placement in a 9x9 Matrix
 
-Project Overview
+Project Overview:
 
 This MATLAB project generates a 9x9 matrix where specific 3x3 submatrices are filled with random numbers along both the primary (left-to-right) and secondary (right-to-left) diagonals. The remaining empty cells are then filled with additional random values. The script demonstrates matrix manipulation, diagonal placement, and structured randomization in MATLAB.
 How It Works
